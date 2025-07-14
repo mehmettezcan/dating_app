@@ -24,7 +24,7 @@
 | UI / Theme   | `Flutter`, `Material3`, `intl`   |
 | State Mgmt   | `flutter_bloc`, `equatable`      |
 | Network      | `dio`                            |
-| Storage      | `hive`, `flutter_secure_storage` |
+| Storage      | `shared-preferences`             |
 | Logging      | `loggy`                          |
 | Localization | `intl`, `intl_utils`             |
 
