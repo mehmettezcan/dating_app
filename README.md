@@ -99,8 +99,8 @@ flutter pub run intl_utils:generate
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mehmettezcan/dating-app.git
-cd dating-app
+git clone https://github.com/mehmettezcan/dating_app.git
+cd dating_app
 ```
 
 ### 2. Get dependencies
