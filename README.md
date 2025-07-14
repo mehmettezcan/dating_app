@@ -133,4 +133,3 @@ Localization supports English and Turkish. The app detects system language autom
 
 Created by **Mehmet Tezcan** – [LinkedIn](https://www.linkedin.com/in/mehmet-tezcan-aa49159b/)
 Feel free to reach out!
-# dating_app

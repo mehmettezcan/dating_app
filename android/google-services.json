@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034549056694",
+    "project_id": "dating-app-d3d7a",
+    "storage_bucket": "dating-app-d3d7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034549056694:android:133a1e4905122be3638217",
+        "android_client_info": {
+          "package_name": "com.mehmettezcan.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXiWWcM_Gf0irpHWCS37tZ6AOtREbItw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
